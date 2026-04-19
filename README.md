@@ -5,9 +5,9 @@
 ## <span style="color:#54a0ff">▸</span> <span style="color:#5f27cd">关</span><span style="color:#ff6b6b">于</span><span style="color:#1dd1a1">我</span>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍-北京-ff9ff3?style=for-the-badge">
-  <img src="https://img.shields.io/badge/💾-嵌入式开发-54a0ff?style=for-the-badge&logo=embedded">
-  <img src="https://img.shields.io/badge/🤖-AI赋能-feca57?style=for-the-badge&logo=openai">
+  <img src="https://img.shields.io/badge/Location-Beijing-ff9ff3?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Role-Embedded%20Dev-54a0ff?style=for-the-badge&logo=embedded">
+  <img src="https://img.shields.io/badge/Tools-AI%20Powered-feca57?style=for-the-badge&logo=openai">
 </p>
 
 ```
@@ -86,7 +86,7 @@ joined: 2026-03-26
 
 <p align="center">
   <img src="https://img.shields.io/badge/Updated-2026--04--19-red?style=social">
-  <img src="https://img.shields.io/badge/💾-Embedded%20Developer-54a0ff?style=social">
+  <img src="https://img.shields.io/badge/Embedded%20Developer-54a0ff?style=social">
 </p>
 
 <p align="center">
