@@ -1,18 +1,6 @@
 # 💾 LEON
 
 <p align="center">
-
-```
-L          E           O           N
-████       ████        ████        █  █
-  █         █          █          █  █
-  █         █          █          █  █
-  █       ████        ████        ████
-```
-
-</p>
-
-<p align="center">
   <img src="http://ForTheBadge.com/images/badges/made-with-c.svg" height="28">
   <img src="http://ForTheBadge.com/images/badges/built-with-swag.svg" height="28">
 </p>
