@@ -49,17 +49,11 @@
 
 ## <span style="color:#54a0ff">▸</span> <span style="color:#ff6b6b">状</span><span style="color:#1dd1a1">态</span>
 
-```yaml
-repos: 1
-followers: 1
-joined: 2026-03-26
-```
-
 <p align="center">
 
-```ascii
-  💾 嵌入式开发中...
-  ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░ 65%
+```
+💾 嵌入式开发中...
+▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░ 65%
 ```
 
 </p>
