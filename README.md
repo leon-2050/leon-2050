@@ -80,8 +80,8 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Updated-2026--04--19-red?style=social"> 🔧
-  <img src="https://img.shields.io/badge/Embedded%20Developer-54a0ff?style=social">
+  <img src="https://img.shields.io/badge/Updated-2026--04--19-red?style=social"> 
+  <img src="https://img.shields.io/badge/🔧%20Embedded%20Developer-54a0ff?style=social">
 </p>
 
 <p align="center">
