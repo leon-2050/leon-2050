@@ -1,10 +1,5 @@
 # leon
 
-<p align="center">
-  <img src="http://ForTheBadge.com/images/badges/made-with-c.svg" height="28">
-  <img src="http://ForTheBadge.com/images/badges/built-with-swag.svg" height="28">
-</p>
-
 ---
 
 ## <span style="color:#54a0ff">▸</span> <span style="color:#5f27cd">关</span><span style="color:#ff6b6b">于</span><span style="color:#1dd1a1">我</span>
