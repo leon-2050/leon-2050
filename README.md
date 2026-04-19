@@ -90,8 +90,8 @@ joined: 2026-03-26
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-2026--04--19-ff6b6b?style=social">
-  <img src="https://img.shields.io/badge/-💾-嵌入式开发中...-54a0ff?style=social">
+  <img src="https://img.shields.io/badge/Updated-2026--04--19-red?style=social">
+  <img src="https://img.shields.io/badge/💾-Embedded%20Developer-54a0ff?style=social">
 </p>
 
 <p align="center">
