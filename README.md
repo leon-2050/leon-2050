@@ -80,7 +80,9 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Updated-2026--04--19-red?style=social">
+  <img src="https://img.shields.io/badge/EN-English-blue?style=social">
+  <img src="https://img.shields.io/badge/CN-中文-red?style=social">
+  <img src="https://img.shields.io/badge/Updated-2026--04--19-orange?style=social">
   <img src="https://img.shields.io/badge/🔧EmbeddedDeveloper-54a0ff?style=social">
 </p>
 
