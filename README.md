@@ -1,6 +1,19 @@
 # <samp><span style="background: linear-gradient(90deg, #ff6b6b, #feca57, #48dbfb, #ff9ff3, #54a0ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">💾 LEON</span></samp>
 
 <p align="center">
+
+```
+███╗   ███╗ █████╗ ███╗   ██╗ █████╗ ██╗  ██╗████████╗███████╗ █████╗ ███╗   ██╗
+████╗ ████║██╔══██╗████╗  ██║██╔══██╗██║ ██╔╝╚══██╔══╝██╔════╝██╔══██╗████╗  ██║
+██╔████╔██║███████║██╔██╗ ██║███████║█████╔╝    ██║   █████╗  ███████║██╔██╗ ██║
+██║╚██╔╝██║██╔══██║██║╚██╗██║██╔══██║██╔═██╗    ██║   ██╔══╝  ██╔══██║██║╚██╗██║
+██║ ╚═╝ ██║██║  ██║██║ ╚████║██║  ██║██║  ██╗   ██║   ███████╗██║  ██║██║ ╚████║
+╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝ ╚═══╝
+```
+
+</p>
+
+<p align="center">
   <img src="http://ForTheBadge.com/images/badges/made-with-c.svg" height="28">
   <img src="http://ForTheBadge.com/images/badges/built-with-swag.svg" height="28">
 </p>
