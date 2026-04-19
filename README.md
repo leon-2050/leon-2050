@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Beijing-ff9ff3?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Role-EmbeddedDev-54a0ff?style=for-the-badge&logo=embedded">
+  <img src="https://img.shields.io/badge/Role-🔧EmbeddedDev-54a0ff?style=for-the-badge&logo=embedded">
   <img src="https://img.shields.io/badge/Tools-AI%20Powered-feca57?style=for-the-badge&logo=openai">
 </p>
 
@@ -80,8 +80,8 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Updated-2026--04--19-red?style=social"> 
-  <img src="https://img.shields.io/badge/%20Embedded%20Developer-54a0ff?style=social">
+  <img src="https://img.shields.io/badge/Updated-2026--04--19-red?style=social">
+  <img src="https://img.shields.io/badge/🔧EmbeddedDeveloper-54a0ff?style=social">
 </p>
 
 <p align="center">
